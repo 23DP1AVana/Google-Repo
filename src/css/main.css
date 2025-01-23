@@ -53,6 +53,8 @@ header > a:hover {
     padding-bottom: 10px;
     border-radius: 50px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 40px;
+    margin-top: 50px;
 }
 
 .shortcut-container {
